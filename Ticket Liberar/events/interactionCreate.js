@@ -73,12 +73,12 @@ module.exports = {
               {
                 label: 'Reportar Bug',
                 value: 'bug',
-                emoji: '890272501584789544',
+                emoji: '🛠️',
               },
               {
                 label: 'Denuncia',
                 value: 'denuncia',
-                emoji: '922973404825530398',
+                emoji: '⚠️',
               },
             ]),
           );
